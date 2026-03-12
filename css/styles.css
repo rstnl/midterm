@@ -1,6 +1,9 @@
 /* styles.css */
 h1 {
-
+ font-family: "Fira Sans", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #050524;
 }
 h2 {
  font-family: "Roboto Condensed", sans-serif;
