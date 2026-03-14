@@ -33,5 +33,6 @@ h2 {
 }
 
 .rstanimg {
-  align-items: center;
+  align-items: auto;
+  margin: 0 auto;
 }
