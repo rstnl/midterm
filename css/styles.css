@@ -1,9 +1,17 @@
 /* styles.css */
+
 .container {
   text-align: center;
   font-family: "Roboto Condensed", sans-serif;
   font-size: larger;
   color:black;
+}
+.col-6 {
+  margin-top: 1rem;
+}
+
+.mt-2{
+margin-top: 1;
 }
 
 h1 {
@@ -12,7 +20,7 @@ h1 {
   font-style: normal;
   color: #0b0b5e;
   text-align: center;
-  margin-top: 25px;
+  
 }
 
 h2 {
@@ -21,7 +29,9 @@ h2 {
   font-weight: 500;
   font-style: normal;
   color: #1a1a80;
+
 }
+
 .rstanimg {
   align-items: center;
 }
